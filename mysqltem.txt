@@ -1,0 +1,3 @@
+BDName: $dbname
+User: $muser
+Password: $password
